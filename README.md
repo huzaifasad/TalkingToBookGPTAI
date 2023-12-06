@@ -30,7 +30,7 @@ TalkingToBook allows users to input prompts and receive responses derived from a
 
 Before using TalkingToBook, make sure you have the following installed:
 
-- Nide JS
+- Node JS
 - [OpenAI API key](#api-key)
 - Firebase API Key for database
 - Stripe for Subscriptions if you Need it 
